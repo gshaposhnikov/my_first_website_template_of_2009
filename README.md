@@ -2,7 +2,7 @@
 
 ## HTML
 
-### This website template was developed in 2009, the template has been tested. In this template, I used HTML markup and animation for the site. Running lines HTML, using the tag, the template uses three directions of movement of the text (from left to right, right to left, bottom to top).
+### This website template was developed in 2009, the template has been tested. In this template, I used HTML markup and animation for the site. Running lines HTML, using the tag marquee, the template uses three directions of movement of the text (from left to right, right to left, bottom to top).
 
 #### Site template structure:
 
@@ -29,7 +29,7 @@ I didn't use css cascading style sheets. In the following site template, I will 
 
 ## HTML
 
-### Этот шаблон веб-сайта разработан в 2009 году, шаблон протестирован. В этом шаблоне, я использовал разметку HTML и анимацию для сайта. Бегущие строки HTML, с применением тега <marquee>, в шаблоне используется три направления движения текста (с лева на 
+### Этот шаблон веб-сайта разработан в 2009 году, шаблон протестирован. В этом шаблоне, я использовал разметку HTML и анимацию для сайта. Бегущие строки HTML, с применением тега marquee, в шаблоне используется три направления движения текста (с лева на 
 право, справа на лево, снизу вверх).
 
 #### Структура шаблона сайта:
